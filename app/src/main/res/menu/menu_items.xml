@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/friend"
+    android:title="Find Friend"
+    android:checkable="true">
+
+</item>
+    <item
+        android:id="@+id/Messages"
+        android:title="Messages"
+        android:checkable="true">
+
+    </item>
+    <item
+        android:id="@+id/notice"
+        android:title="Notice Board"
+        android:checkable="true">
+
+    </item>
+    <item
+        android:id="@+id/weather"
+        android:title="Weather Info"
+        android:checkable="true">
+
+    </item>
+    <item
+        android:id="@+id/reached"
+        android:title="Reached Home"
+        android:checkable="true">
+
+    </item>
+
+</menu>
